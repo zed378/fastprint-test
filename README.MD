@@ -61,11 +61,15 @@ npm start
 ### API Product
 
 - GET
+
   > < host >:5000/api/v1/products
   > Akan memberikan response semua produk yang ada di database tanpa filter apapun
   > selain itu bisa menambahkan query untuk filter data
-  > < host >:5000/api/v1/products?isTradeable=1
-  > nilai **1** akan memberikan response semua data yang bisa dijual dan **2** akan memberikan response semua data yang tidak bisa dijual
+
+---
+
+> < host >:5000/api/v1/products?isTradeable=1
+> nilai **1** akan memberikan response semua data yang bisa dijual dan **2** akan memberikan response semua data yang tidak bisa dijual
 
 | API   | Default              | Custom                                                                                                       |
 | ----- | -------------------- | ------------------------------------------------------------------------------------------------------------ |
