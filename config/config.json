@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "freedb_zedth",
+    "password": "#Pjpb998gUna9g!",
+    "database": "freedb_fastprint",
+    "host": "sql.freedb.tech",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "freedb_zedth",
+    "password": "#Pjpb998gUna9g!",
+    "database": "freedb_fastprint",
+    "host": "sql.freedb.tech",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "freedb_zedth",
+    "password": "#Pjpb998gUna9g!",
+    "database": "freedb_fastprint",
+    "host": "sql.freedb.tech",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
